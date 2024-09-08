@@ -1,7 +1,7 @@
 button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #70a03a;
+  background-color: #22c1cf;
   color: #ffffff;
   border: none;
   font-size: 16px;
@@ -11,9 +11,9 @@ button {
 }
 
 button:hover {
-  background-color: #c1f590;
+  background-color: #055457;
 }
 
 button:active {
-  background-color: #297910;
+  background-color: #98c8d6;
 }

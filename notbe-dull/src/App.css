@@ -33,7 +33,7 @@
 }
 
 h1 {
-  color: darkgreen;
+  color: rgb(13, 103, 111);
 }
 .box {
   background-color: white; /* White background */
@@ -44,7 +44,9 @@ h1 {
   max-width: 500px; /* Optional: Limit the width */
   width: 100%; /* Make it responsive */
 }
-
+h2 {
+  color: rgb(14, 165, 44);
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
